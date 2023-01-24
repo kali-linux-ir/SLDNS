@@ -2,7 +2,7 @@
 SSH OVER DNS create by SL
 * Link Script Repo SlowDNS dari Sulaiman L
 ```html
-https://github.com/fisabiliyusri/SLDNS
+https://kali-linux-ir/fisabiliyusri/SLDNS
 ```
 # INFO
 * INI SCRIPT BERSIFAT GRATIS DAN INI SCRIPT DI LARANG DI JUAL PERBELIKAN
